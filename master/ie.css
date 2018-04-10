@@ -2,10 +2,15 @@ h1 {
     color: #620ad2;
     text-shadow: 5px 5px 0 #cccccc;
 }
-.nice-cite {
+nice-cite {
     margin: 1em 0;
     padding: 1em 30px;
     line-height: 1;
     background: #f5f5f5;
     border-left: 8px solid #E7471E;
+}
+ok {
+    text-decoration: line-through;
+    border-color: #27ae60;
+    background-color: #2ecc71;
 }
